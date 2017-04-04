@@ -26,5 +26,33 @@
     "category": "system",
     "directory": "crystaldiskinfo",
     "homepage": "http://crystalmark.info/?lang=en"
+  },
+  {
+    "app_name": "Mumble",
+    "type": "Conf",
+    "category": "voip, internet",
+    "directory": "mumble",
+    "homepage": "http://mumble.info/"
+  },
+  {
+    "app_name": "ISOburn",
+    "type": "Zip",
+    "category": "disc",
+    "directory": "isoburn",
+    "homepage": "http://isoburn.org/"
+  },
+  {
+    "app_name": "KiTTY",
+    "type": "Zip, Conf",
+    "category": "ssh, internet",
+    "directory": "kitty",
+    "homepage": "http://www.9bis.net/kitty/"
+  },
+  {
+    "app_name": "uTorrent",
+    "type": "Conf",
+    "category": "internet, torrent",
+    "directory": "utorrent",
+    "homepage": "http://www.utorrent.com/"
   }
 ]
