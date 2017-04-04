@@ -54,5 +54,12 @@
     "category": "internet, torrent",
     "directory": "utorrent",
     "homepage": "http://www.utorrent.com/"
+  },
+  {
+    "app_name": "Foobar2000",
+    "type": "Inst",
+    "category": "music",
+    "directory": "foobar2k",
+    "homepage": "http://www.foobar2000.org/"
   }
 ]
