@@ -1,0 +1,30 @@
+[
+  {
+    "app_name": "AIMP", 
+    "type": "Inst",
+    "category": "music",
+    "directory": "aimp",
+    "homepage": "http://aimp.ru/"
+  },
+  {
+    "app_name": "Awesome Duplicate Photo Finder",
+    "type": "Portable",
+    "category": "images",
+    "directory": "adpf",
+    "homepage": "http://www.duplicate-finder.com/photo.html"
+  },
+  {
+    "app_name": "AltDrag",
+    "type": "Zip",
+    "category": "system",
+    "directory": "altdrag",
+    "homepage": "https://stefansundin.github.io/altdrag/"
+  },
+  {
+    "app_name": "CrystalDiskInfo",
+    "type": "Zip",
+    "category": "system",
+    "directory": "crystaldiskinfo",
+    "homepage": "http://crystalmark.info/?lang=en"
+  }
+]
